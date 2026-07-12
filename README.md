@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Gaurav</h1>
-<h3 align="center">Computer Science Graduate | Aspiring Software Developer | AI & Full Stack Enthusiast</h3>
-
+<h1 align="center">
+Hi 👋, I'm Utkarsh
+</h1>
+<h3 align="center">
+Software Developer • AI Enthusiast • Full Stack Developer
+</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uttkarshhh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
