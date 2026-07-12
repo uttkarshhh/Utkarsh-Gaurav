@@ -96,6 +96,4 @@ Personal portfolio showcasing projects and skills.
 
 ---
 
-## 💡 Quote
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
