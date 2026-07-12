@@ -21,11 +21,11 @@ Software Developer • AI Enthusiast • Full Stack Developer
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/utkarsh-gaurav-a56972421/" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/uttkarshhh" target="blank">
+<a href="https://github.com/utkarshgaurav09" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
