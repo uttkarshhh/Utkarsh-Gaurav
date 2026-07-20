@@ -29,6 +29,10 @@ Software Developer • AI Enthusiast • Full Stack Developer
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
+<a href="https://leetcode.com/u/uttkarshh_07/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
+</a>
+
 <a href="mailto:utkarsh15gaurav@gmail.com">
 <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
 </a>
