@@ -10,7 +10,7 @@ Software Developer • AI Enthusiast • Full Stack Developer
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Graduate (CGPA: **8.4**)
+- 🎓 B.Tech Computer Science Graduate (CGPA: **8.5**)
 - 💻 Passionate about **Software Development**, **Artificial Intelligence**, and **Full Stack Development**
 - 🌱 Currently improving **Data Structures & Algorithms** and building real-world projects
 - 🚀 Looking for **Software Engineer / Full Stack Developer / AI Engineer** opportunities
